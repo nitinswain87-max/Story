@@ -1,1 +1,1 @@
-currently i'm practicing git and github version control
+currently i'm practicing git and github version control and learnig creating side branch and merging them into main branch
